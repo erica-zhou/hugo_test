@@ -1,12 +1,10 @@
-ontents
-
 ---
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://erica-zhou.github.io/blog"
+baseurl: "http://erica-zhou.github.io/hugo_test"
 title: "Hugo Blog Template for GitHub Pages"
 canonifyurls: true
 ...
