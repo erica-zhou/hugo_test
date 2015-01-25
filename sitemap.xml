@@ -3,8 +3,33 @@
   
   <url>
     <loc>http://erica-zhou.github.io/hugo_test/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-01-25T15:35:10+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://erica-zhou.github.io/hugo_test/posts/first%20-%20%E5%89%AF%E6%9C%AC%20%282%29/</loc>
+    <lastmod>2015-01-25T15:35:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erica-zhou.github.io/hugo_test/posts/first%20-%20%E5%89%AF%E6%9C%AC%20%283%29/</loc>
+    <lastmod>2015-01-25T15:35:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erica-zhou.github.io/hugo_test/posts/first%20-%20%E5%89%AF%E6%9C%AC/</loc>
+    <lastmod>2015-01-25T15:35:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erica-zhou.github.io/hugo_test/posts/first/</loc>
+    <lastmod>2015-01-25T15:35:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erica-zhou.github.io/hugo_test/about/</loc>
+    <lastmod>2015-01-25T15:33:26+08:00</lastmod>
   </url>
   
 </urlset>

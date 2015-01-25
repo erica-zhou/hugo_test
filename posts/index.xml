@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on Hugo Blog Template for GitHub Pages </title>
+      <title>Posts on Hugo Blog Template for GitHub Pages </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://erica-zhou.github.io/hugo_test/index.xml/</link>
+    <link>http://erica-zhou.github.io/hugo_test/posts/index.xml/</link>
     
     
     
@@ -62,26 +62,6 @@
 &lt;h1 id=&#34;toc_0&#34;&gt;first port 好&lt;/h1&gt;
 
 &lt;h1 id=&#34;toc_1&#34;&gt;rebuild automatic&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://erica-zhou.github.io/hugo_test/about/</link>
-      <pubDate>Sun, 25 Jan 2015 15:33:26 CST</pubDate>
-      
-      <guid>http://erica-zhou.github.io/hugo_test/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;H1&lt;/h1&gt;
-
-&lt;p&gt;内容&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;not rebuild&lt;/h2&gt;
-
-&lt;h1 id=&#34;toc_2&#34;&gt;build?&lt;/h1&gt;
-
-&lt;p&gt;#asldkfj&lt;/p&gt;
 </description>
     </item>
     
